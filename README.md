@@ -1,7 +1,4 @@
 # MADHAV-ECOMMERCE-PROJECT-POWER-BI
-This is the data related projects for the jobs .
-<br>
-Author - Puru Sharma
 <br>
 Project Highlights:
 🔹 In-depth Sales Analysis: Harnessed the power of Power BI to analyze sales trends, customer behavior, and product performance.
